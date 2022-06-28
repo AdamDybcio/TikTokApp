@@ -1,0 +1,1 @@
+-keep class com.example.tiktok_app.BuildConfig { *; }
